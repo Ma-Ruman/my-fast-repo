@@ -1,8 +1,20 @@
-p{
-    color: blue;
-    padding: 20px;
-    background-color: antiquewhite;
-}
+
 body{
-    background-color: aqua;
+    background-color: #ffffff;
+}
+h1{
+    color: rgb(114, 12, 239);
+}
+.text{
+    background-color: bisque;
+    border: 5px soid #faebd7;
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    margin-top: 1%;
+    margin-right: 50%;
+    color: rgb(228, 12, 225);
+    font-weight:bolder;
+
 }
